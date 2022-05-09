@@ -4,9 +4,6 @@ Hi 👋 My name is Carlos Delgado III
 Full-Stack Developer | Software Engineer
 ----------------------------------------
 
-⚡️ A Few Quick Facts
-----------------------------------------
-
 * 🌍  I'm based in Texas
 * ✉️  You can contact me at [carlos.delgado.dev@gmail.com](mailto:carlos.delgado.dev@gmail.com)
 
