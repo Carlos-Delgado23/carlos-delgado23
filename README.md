@@ -7,6 +7,16 @@ Full-Stack Developer | Software Engineer
 * 🌍  I'm based in Texas
 * ✉️  You can contact me at [carlos.delgado.dev@gmail.com](mailto:carlos.delgado.dev@gmail.com)
 
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Carlos-Delgado23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/carlosdelgadoiii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Carlos-Delgado23"><img src="https://github-readme-stats.vercel.app/api?username=Carlos-Delgado23&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=ffffff&text_color=84cc16&icon_color=64748b&bg_color=0f172a&hide_border=true&show_icons=true" alt="Carlos-Delgado23's GitHub stats" /></a>
+
 ### Skills
 
 <p align="left">
@@ -27,14 +37,3 @@ Full-Stack Developer | Software Engineer
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Carlos-Delgado23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/carlosdelgadoiii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Carlos-Delgado23"><img src="https://github-readme-stats.vercel.app/api?username=Carlos-Delgado23&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=ffffff&text_color=84cc16&icon_color=64748b&bg_color=0f172a&hide_border=true&show_icons=true" alt="Carlos-Delgado23's GitHub stats" /></a>
